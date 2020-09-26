@@ -50,6 +50,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [meu portfolio](https://{diegononato.netlify.app/})
+- Website [Diego Nonato](https://{diegononato.netlify.app/})
 - GitHub [@nonatodiego](https://{github.com/nonatodiego})
 - Twitter [@diegononatobr](https://{twitter.com/diegononatobr})
