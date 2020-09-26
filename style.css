@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Montserrat:wght@600&family=Space+Mono:wght@400;700&display=swap');
+
+/* FONTES DO PROJETO
+font-family: 'Inconsolata', monospace;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Space Mono', monospace;
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #333333;
+}
+
+.container {
+  max-width: 1440px;
+  margin-left: 77px;
+  margin-right: 119px;
+}
+
+.container h2 {
+  font-family: 'Inconsolata', monospace;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.56em;
+  letter-spacing: -0.08em;
+  text-transform: uppercase;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+main img {
+  width: 540px;
+  height: 447px;
+
+  margin-top: 200px;
+  margin-right: 119px;
+}
+
+.main-container {
+  margin-top: 200px;
+  margin-bottom: 349px;
+}
+
+.main-container h1 {
+  font-family: 'Space Mono', monospace;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 64px;
+  line-height: 95px;
+  letter-spacing: -0.035em;
+
+  max-width: 586px;
+  margin-bottom: 36px;
+}
+
+.main-container p {
+  font-family: 'Space Mono', monospace;
+  font-size: 24px;
+  font-weight: normal;
+  line-height: 36px;
+  letter-spacing: -0.035em;
+
+  color: #4f4f4f;
+
+  max-width: 381px;
+  margin-bottom: 64px;
+}
+
+.main-container a {
+  width: 216px;
+  height: 68px;
+  padding: 24px 43px;
+
+  background-color: #333333;
+  color: #fff;
+
+  font-family: 'Space Mono', monospace;
+  letter-spacing: -0.035em;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 14px;
+  line-height: 21px;
+  
+  transition: background-color 1s;
+}
+
+.main-container a:hover {
+  background-color: #4f4f4f;
+}
+
+footer {
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+
+  margin-bottom: 39px;
+}
+
+
+
